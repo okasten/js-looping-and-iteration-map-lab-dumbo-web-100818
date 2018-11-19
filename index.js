@@ -4,5 +4,7 @@ function lowerCaseDrivers(array){
 }
 
 function nameToAttributes(array){
-  
+  return array.map(function (firstname, lastname) { 
+    return 
+  })
 }
